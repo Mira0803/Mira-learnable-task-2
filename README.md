@@ -40,7 +40,7 @@
 ---
 
 ## Cherry-pick commit-hash
-Git cherry-pick allows you to pick a specific commit from one branch and apply it to another branch.
+    Git cherry-pick allows you to pick a specific commit from one branch and apply it to another branch.
 
 ### Command:
-git cherry-pick commit-hash
+    git cherry-pick commit-hash
