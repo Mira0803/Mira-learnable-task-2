@@ -23,9 +23,11 @@
 
 ## Difference Between git fetch and git pull
 
-### git fetch: Gets updates from the remote repository but does NOT merge them into your current branch.
+### git fetch: 
+    Gets updates from the remote repository but does NOT merge them into your current branch.
 
-### git pull: Gets updates AND automatically merges them into your current branch.
+### git pull: 
+    Gets updates AND automatically merges them into your current branch.
 
 ---
 
@@ -35,7 +37,9 @@
 ### Command:
     git rebase branch-name.
 
-## cherry-pick commit-hash
+---
+
+## Cherry-pick commit-hash
 Git cherry-pick allows you to pick a specific commit from one branch and apply it to another branch.
 
 ### Command:
